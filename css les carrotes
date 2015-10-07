@@ -1,0 +1,64 @@
+html{font-size:150%}
+body {
+  padding-left: 1em;
+  font-family:2em/1em Georgia, "castellar",
+        Times, serif;
+  
+  color: white ;
+  background-color:red}
+ul.navbar {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  position: absolute;
+  top: 2em;
+  left: 0em;
+  width: 9em }
+  .stanyslas{
+   font-family: castellar;
+    color:gold; 
+  }
+  .stan{
+  background:black;
+
+  }
+
+  .stan3{
+  font-size:200%;
+   font-family: castellar; 
+	padding-left: 10em;
+  }
+  .stan4{
+   font-family: castellar;
+  }
+
+.stan1{
+font-family: arial;
+color:white;
+}
+
+.stan2{
+font-family:wide latin;
+ background: purple;
+ color: indigo;
+ font-size:150%;
+h1 {
+  font-family: Helvetica, Geneva, Arial,
+        SunSans-Regular, sans-serif }
+ul.navbar li {
+  background: white;
+  margin: 0.5em 0;
+  padding: 0.3em;
+  border-right: 1em solid black }
+ul.navbar a {
+  text-decoration: none }
+a:link {
+  color: green }
+a:visited {
+  color: green }
+a:hover {
+  color: gray }
+address {
+  margin-top: 1em;
+  padding-top: 1em;
+  border-top: thin dotted }
